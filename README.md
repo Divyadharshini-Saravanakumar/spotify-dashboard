@@ -1,6 +1,6 @@
 # 🎧 Spotify 2023 Power BI Dashboard
 
-![Dashboard Preview](preview.png)
+![Dashboard Preview](Preview.png)
 
 This project features an interactive Power BI dashboard visualizing the most streamed songs on Spotify in 2023. It blends custom visuals, enriched metadata, and a modern glassmorphism aesthetic to deliver powerful musical insights using **Deneb** and **HTML visuals**.
 
