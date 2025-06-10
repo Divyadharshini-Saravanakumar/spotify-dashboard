@@ -24,9 +24,12 @@ This repository showcases the full data-to-dashboard pipeline:
 | `spotify_2023_with_covers.csv` | Final enriched dataset with cover URLs added via the Spotify API             |
 | `Spotify_2023_Project.pbix` | Power BI dashboard using enriched data and custom visuals (Deneb + HTML)    |
 | `Background.png`            | Glassmorphism background image designed in PowerPoint for Power BI design   |
-| `preview.png`               | *(Optional)* Screenshot preview of the Power BI dashboard                   |
+| `preview.png`               | Screenshot preview of the Power BI dashboard                   |
 
 ---
+> **Interested in the custom HTML or Deneb code used in this dashboard?**  
+> Feel free to reach out — I'm happy to share it upon request.
+
 
 ## Data Enrichment Process
 
